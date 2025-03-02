@@ -1,0 +1,10 @@
+C:\Users\ASUS TUF\source\repos\Modul3_Reyner\Modul3_Reyner\bin\Debug\Modul3_Reyner.exe.config
+C:\Users\ASUS TUF\source\repos\Modul3_Reyner\Modul3_Reyner\bin\Debug\Modul3_Reyner.exe
+C:\Users\ASUS TUF\source\repos\Modul3_Reyner\Modul3_Reyner\bin\Debug\Modul3_Reyner.pdb
+C:\Users\ASUS TUF\source\repos\Modul3_Reyner\Modul3_Reyner\obj\Debug\Modul3_Reyner.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF\source\repos\Modul3_Reyner\Modul3_Reyner\obj\Debug\Modul3_Reyner.Form1.resources
+C:\Users\ASUS TUF\source\repos\Modul3_Reyner\Modul3_Reyner\obj\Debug\Modul3_Reyner.Properties.Resources.resources
+C:\Users\ASUS TUF\source\repos\Modul3_Reyner\Modul3_Reyner\obj\Debug\Modul3_Reyner.csproj.GenerateResource.cache
+C:\Users\ASUS TUF\source\repos\Modul3_Reyner\Modul3_Reyner\obj\Debug\Modul3_Reyner.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\source\repos\Modul3_Reyner\Modul3_Reyner\obj\Debug\Modul3_Reyner.exe
+C:\Users\ASUS TUF\source\repos\Modul3_Reyner\Modul3_Reyner\obj\Debug\Modul3_Reyner.pdb
